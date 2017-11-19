@@ -1,6 +1,6 @@
 {
   "name": "bitcoind-rpc-chaincoin",
-  "description": "Dash Client Library to connect to Dash Core via RPC",
+  "description": "Chaincoin Client Library to connect to Chaincoin Core via RPC",
   "version": "1.0.0",
   "author": {
     "name": "Stephen Pair",
@@ -29,6 +29,7 @@
     }
   ],
   "keywords": [
+    "chaincoin",
     "dash",
     "rpc"
   ],
